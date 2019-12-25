@@ -1,0 +1,23 @@
+.cell,
+.cell-body,
+.cell-food {
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  background-color: violet;
+  overflow: hidden;
+  border: 2px solid black;
+}
+
+.cell-body {
+  background-color: black;
+}
+.cell-food {
+  background-color: cadetblue;
+}
