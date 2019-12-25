@@ -1,0 +1,2 @@
+.cell,.cell-body,.cell-food{box-sizing:border-box;width:30px;height:30px;border:1px solid #000}.board{display:flex;flex-wrap:wrap;margin:auto;background-color:violet;overflow:hidden;border:2px solid #000}.cell-body{background-color:#000}.cell-food{background-color:#5f9ea0}
+/*# sourceMappingURL=main.de343c34.chunk.css.map */
